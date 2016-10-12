@@ -9,8 +9,6 @@ permalink:        pretty
 title:            Cats Love Me
 tagline:          'A Jekyll theme'
 description:      'and they love Monokai too.'
-url:              catslove.me
-baseurl:          /
 
 author:
   name:           'TacoMeemert'
@@ -24,4 +22,4 @@ paginate_path: "page:num"
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/SugarXD
